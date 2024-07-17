@@ -91,7 +91,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Cat-Tomcat" id="A710KTiz6IJlVaRQ1I0g">
-        <mxGraphModel dx="787" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="452" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="ru65B3E48xRv2Lraa3f8-0"/>
                 <mxCell id="ru65B3E48xRv2Lraa3f8-1" parent="ru65B3E48xRv2Lraa3f8-0"/>
@@ -113,7 +113,7 @@
                 <mxCell id="ru65B3E48xRv2Lraa3f8-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="ru65B3E48xRv2Lraa3f8-2">
                     <mxGeometry y="130" width="200" height="8" as="geometry"/>
                 </mxCell>
-                <mxCell id="ru65B3E48xRv2Lraa3f8-9" value="+ Cat(String, String, int, boolean)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ru65B3E48xRv2Lraa3f8-2">
+                <mxCell id="ru65B3E48xRv2Lraa3f8-9" value="+ Cat(String, String, int)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ru65B3E48xRv2Lraa3f8-2">
                     <mxGeometry y="138" width="200" height="26" as="geometry"/>
                 </mxCell>
                 <mxCell id="ru65B3E48xRv2Lraa3f8-10" value="+ getStringAttributes(String): String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ru65B3E48xRv2Lraa3f8-2">
